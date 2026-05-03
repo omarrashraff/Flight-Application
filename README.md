@@ -1,6 +1,9 @@
 # ✈️ Flight & Passenger Management System
 
-Developed in collaboration with @minshawi0 as part of the Cryptography course at Cairo University, Faculty of Engineering.
+A collection of classic data structure problems implemented in pure C++ for educational purposes. Built by - [Omar Ashraf](https://github.com/omarrashraff)
+& [Mohamed Ahmed](https://github.com/minshawi0)
+
+
 
 A C++ Object-Oriented Programming project that models an airline flight and passenger management system. Built to demonstrate core OOP concepts including operator overloading, copy constructors, static members, and dynamic passenger management.
 
@@ -119,5 +122,8 @@ Do you want to search for another seat? (Y/N): N
 ---
 
 ## Authors
+- [Omar Ashraf](https://github.com/omarrashraff)
+- [Mohamed Ahmed](https://github.com/minshawi0)
+
 
 > OOP Course Project
